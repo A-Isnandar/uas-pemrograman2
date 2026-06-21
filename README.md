@@ -21,6 +21,3 @@ Aplikasi desktop berbasis Java Swing dan MySQL untuk manajemen transaksi (Produk
 3. Pastikan library `mysql-connector-j.jar` (tersedia di folder `/lib`) sudah ditambahkan pada panel Libraries.
 4. Jalankan (Run) file `LoginForm.java` pada package `view`.
 5. Login menggunakan Username: `admin` dan Password: `admin123`.
-
-## 📸 Screenshot Aplikasi
-*(Tambahkan 1-2 screenshot form login dan menu utama di sini menggunakan tag image markdown jika diunggah ke repositori)*
